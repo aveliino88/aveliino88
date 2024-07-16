@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Your Name]
 
-<!--
-**aveliino88/aveliino88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌍 Location: Helsinki
+- 🏫 Education: some education 
+- 💼 Currently working at: not working
+- 🌱 Currently learning: JS
+- 💬 Ask me about: anything
+- 📫 How to reach me: https://a3v.pro
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aveliino88&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aveliino88&layout=compact&theme=radical)
+
+*Thank you for visiting my profile!*
