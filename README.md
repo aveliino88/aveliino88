@@ -10,9 +10,6 @@
 
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aveliino88&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aveliino88&layout=compact&theme=radical)
+![aveliino88's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aveliino88&theme=vue-dark&hide_border=true)
 
 *Thank you for visiting my profile!*
